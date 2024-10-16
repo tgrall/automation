@@ -296,7 +296,9 @@
         "Readability",
         "Inline Chat",
         "Simplify"
-      ]
+      ],
+      "defaultLanguage": "en",
+      "defaultAudioLanguage": "en"
     }
   },
   {
