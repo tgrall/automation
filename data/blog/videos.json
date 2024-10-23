@@ -388,7 +388,8 @@
         "VS Code",
         "Documentation",
         "Specifications",
-        "Doc"
+        "Doc",
+        "Issue"
       ],
       "defaultAudioLanguage": "en"
     }
