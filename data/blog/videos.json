@@ -367,5 +367,30 @@
       ],
       "defaultAudioLanguage": "en"
     }
+  },
+  {
+    "id": "2lYppIXb-pU",
+    "snippet": {
+      "title": "Creating a new GitHub Issue with the",
+      "description": "In this demonstration, I use Copilot Chat in VS Code to create a new GitHub Issue and help me to write the specifications.",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/2lYppIXb-pU/default.jpg",
+          "width": 120,
+          "height": 90
+        }
+      },
+      "tags": [
+        "Copilot In the IDE",
+        "Copilot Chat",
+        "REST",
+        "Help",
+        "VS Code",
+        "Documentation",
+        "Specifications",
+        "Doc"
+      ],
+      "defaultAudioLanguage": "en"
+    }
   }
 ]
