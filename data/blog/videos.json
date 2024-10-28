@@ -393,5 +393,29 @@
       ],
       "defaultAudioLanguage": "en"
     }
+  },
+  {
+    "id": "ZhFtu1q5E08",
+    "snippet": {
+      "title": "Internationalization (i18n) with GitHub Copilot",
+      "description": "In this video, I show how to use GitHub Copilot Chat to help me to add a new language to a React/NextJS application.",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/ZhFtu1q5E08/default.jpg",
+          "width": 120,
+          "height": 90
+        }
+      },
+      "tags": [
+        "Copilot In the IDE",
+        "Copilot Chat",
+        "VSCode",
+        "i18n",
+        "Front-End",
+        "React",
+        "Next"
+      ],
+      "defaultAudioLanguage": "en"
+    }
   }
 ]
