@@ -417,5 +417,30 @@
       ],
       "defaultAudioLanguage": "en"
     }
+  },
+  {
+    "id": "ib6dswtx-Yw",
+    "snippet": {
+      "title": "Using GitHub Copilot Edits to add new translation to my NextJS Application.",
+      "description": "Adding new entry in my i18n files using Copilot Edits. This new feature of VSCode Copilot Chat allows me to modify multiple files easily.",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/ib6dswtx-Yw/default.jpg",
+          "width": 120,
+          "height": 90
+        }
+      },
+      "tags": [
+        "Copilot In the IDE",
+        "Copilot Chat",
+        "VSCode",
+        "i18n",
+        "Front-End",
+        "React",
+        "Next",
+        "Copilot Edits"
+      ],
+      "defaultAudioLanguage": "en"
+    }
   }
 ]
