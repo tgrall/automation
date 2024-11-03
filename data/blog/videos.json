@@ -1,5 +1,230 @@
 [
   {
+    "id": "Buwz_9O8p1Y",
+    "snippet": {
+      "title": "Refactoring code to create a new React component using Copilot Edits",
+      "description": "",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/Buwz_9O8p1Y/default.jpg",
+          "width": 120,
+          "height": 90
+        }
+      },
+      "tags": [
+        "Copilot In the IDE",
+        "Copilot Chat",
+        "VSCode",
+        "i18n",
+        "Front-End",
+        "React",
+        "Next",
+        "Copilot Edits",
+        "Refactoring"
+      ],
+      "defaultAudioLanguage": "en"
+    }
+  },
+  {
+    "id": "ib6dswtx-Yw",
+    "snippet": {
+      "title": "Using GitHub Copilot Edits to add new translation to my NextJS Application.",
+      "description": "Adding new entry in my i18n files using Copilot Edits. This new feature of VSCode Copilot Chat allows me to modify multiple files easily.",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/ib6dswtx-Yw/default.jpg",
+          "width": 120,
+          "height": 90
+        }
+      },
+      "tags": [
+        "Copilot In the IDE",
+        "Copilot Chat",
+        "VSCode",
+        "i18n",
+        "Front-End",
+        "React",
+        "Next",
+        "Copilot Edits"
+      ],
+      "defaultAudioLanguage": "en"
+    }
+  },
+  {
+    "id": "ZhFtu1q5E08",
+    "snippet": {
+      "title": "Internationalization (i18n) with GitHub Copilot",
+      "description": "In this video, I show how to use GitHub Copilot Chat to help me to add a new language to a React/NextJS application.",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/ZhFtu1q5E08/default.jpg",
+          "width": 120,
+          "height": 90
+        }
+      },
+      "tags": [
+        "Copilot In the IDE",
+        "Copilot Chat",
+        "VSCode",
+        "i18n",
+        "Front-End",
+        "React",
+        "Next"
+      ],
+      "defaultAudioLanguage": "en"
+    }
+  },
+  {
+    "id": "2lYppIXb-pU",
+    "snippet": {
+      "title": "Creating a new GitHub Issue with Copilot Chat",
+      "description": "In this demonstration, I use Copilot Chat in VS Code to create a new GitHub Issue and help me to write the specifications.",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/2lYppIXb-pU/default.jpg",
+          "width": 120,
+          "height": 90
+        }
+      },
+      "tags": [
+        "Copilot In the IDE",
+        "Copilot Chat",
+        "REST",
+        "Help",
+        "VS Code",
+        "Documentation",
+        "Specifications",
+        "Doc",
+        "Issue"
+      ],
+      "defaultAudioLanguage": "en"
+    }
+  },
+  {
+    "id": "hzLCvQHmucw",
+    "snippet": {
+      "title": "Explaining Vulnerable Code & Refactoring",
+      "description": "This demonstration shows how to use GitHub Copilot Chat in IntelliJ to check if some code is safe, and also use the chat to refactor the code:\n- create new API to access database\n- call these new API from a Spring controller",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/hzLCvQHmucw/default.jpg",
+          "width": 120,
+          "height": 90
+        }
+      },
+      "tags": [
+        "Copilot In the IDE",
+        "Copilot Chat",
+        "Java",
+        "Database",
+        "REST",
+        "IntelliJ",
+        "JetBrains",
+        "Security",
+        "Fixing Bug",
+        "Vulerability",
+        "Help",
+        "Learning",
+        "Explain",
+        "Test",
+        "Refactoring",
+        "Spring Boot"
+      ],
+      "defaultAudioLanguage": "en"
+    }
+  },
+  {
+    "id": "0P3cUQjAhMg",
+    "snippet": {
+      "title": "Securing & Refactoring in VSCode with Copilot",
+      "description": "In this demonstration, I use Copilot Chat in VS Code to refactor some code:\n- extract all SQL queries database interactions from an API Controller into a new Repository Class\n- Rework the SQL Queries when they are not save commenting them with some explanation\n- Add Try Catch block in the new code for exception management",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/0P3cUQjAhMg/default.jpg",
+          "width": 120,
+          "height": 90
+        }
+      },
+      "tags": [
+        "Copilot In the IDE",
+        "Copilot Chat",
+        "Java",
+        "Database",
+        "REST",
+        "IntelliJ",
+        "JetBrains",
+        "Security",
+        "Fixing Bug",
+        "Vulerability",
+        "Help",
+        "Learning",
+        "Explain",
+        "Test",
+        "VSCode",
+        "Refactoring",
+        "Spring Boot"
+      ],
+      "defaultAudioLanguage": "en"
+    }
+  },
+  {
+    "id": "IrZTMuu30X8",
+    "snippet": {
+      "title": "Simplifying code with GitHub Copilot",
+      "description": "This short demonstration shows how to simplify some code with Copilot \n- in IntelliJ using right click menu and inline chat\n- in VSCode using Chat",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/IrZTMuu30X8/default.jpg",
+          "width": 120,
+          "height": 90
+        }
+      },
+      "tags": [
+        "Copilot In the IDE",
+        "Copilot Chat",
+        "Java",
+        "REST",
+        "IntelliJ",
+        "JetBrains",
+        "Security",
+        "Fixing Bug",
+        "Vulerability",
+        "Help",
+        "Refactoring",
+        "Spring Boot",
+        "Database",
+        "VSCode",
+        "Readability",
+        "Inline Chat",
+        "Simplify"
+      ],
+      "defaultLanguage": "en",
+      "defaultAudioLanguage": "en"
+    }
+  },
+  {
+    "id": "gf_LHc_R__g",
+    "snippet": {
+      "title": "Create a TypeScript class from functionnal specifications, in French",
+      "description": "In this demonstration, I use VSCode and GitHub Copilot to use a specification, written in French, and create a new TypeScript Class that respects the specifications.",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/gf_LHc_R__g/default.jpg",
+          "width": 120,
+          "height": 90
+        }
+      },
+      "tags": [
+        "VSCode",
+        "Inline Chat",
+        "Copilot In the IDE",
+        "TypeScript",
+        "Specifications",
+        "Text To Code"
+      ]
+    }
+  },
+  {
     "id": "9KoDwk93N2g",
     "snippet": {
       "title": "Create a Python script in VSCode using Copilot Inline Chat",
@@ -242,205 +467,6 @@
         "Refactoring",
         "Spring Boot"
       ]
-    }
-  },
-  {
-    "id": "gf_LHc_R__g",
-    "snippet": {
-      "title": "Create a TypeScript class from functionnal specifications, in French",
-      "description": "In this demonstration, I use VSCode and GitHub Copilot to use a specification, written in French, and create a new TypeScript Class that respects the specifications.",
-      "thumbnails": {
-        "default": {
-          "url": "https://i.ytimg.com/vi/gf_LHc_R__g/default.jpg",
-          "width": 120,
-          "height": 90
-        }
-      },
-      "tags": [
-        "VSCode",
-        "Inline Chat",
-        "Copilot In the IDE",
-        "TypeScript",
-        "Specifications",
-        "Text To Code"
-      ]
-    }
-  },
-  {
-    "id": "IrZTMuu30X8",
-    "snippet": {
-      "title": "Simplifying code with GitHub Copilot",
-      "description": "This short demonstration shows how to simplify some code with Copilot \n- in IntelliJ using right click menu and inline chat\n- in VSCode using Chat",
-      "thumbnails": {
-        "default": {
-          "url": "https://i.ytimg.com/vi/IrZTMuu30X8/default.jpg",
-          "width": 120,
-          "height": 90
-        }
-      },
-      "tags": [
-        "Copilot In the IDE",
-        "Copilot Chat",
-        "Java",
-        "REST",
-        "IntelliJ",
-        "JetBrains",
-        "Security",
-        "Fixing Bug",
-        "Vulerability",
-        "Help",
-        "Refactoring",
-        "Spring Boot",
-        "Database",
-        "VSCode",
-        "Readability",
-        "Inline Chat",
-        "Simplify"
-      ],
-      "defaultLanguage": "en",
-      "defaultAudioLanguage": "en"
-    }
-  },
-  {
-    "id": "0P3cUQjAhMg",
-    "snippet": {
-      "title": "Securing & Refactoring in VSCode with Copilot",
-      "description": "In this demonstration, I use Copilot Chat in VS Code to refactor some code:\n- extract all SQL queries database interactions from an API Controller into a new Repository Class\n- Rework the SQL Queries when they are not save commenting them with some explanation\n- Add Try Catch block in the new code for exception management",
-      "thumbnails": {
-        "default": {
-          "url": "https://i.ytimg.com/vi/0P3cUQjAhMg/default.jpg",
-          "width": 120,
-          "height": 90
-        }
-      },
-      "tags": [
-        "Copilot In the IDE",
-        "Copilot Chat",
-        "Java",
-        "Database",
-        "REST",
-        "IntelliJ",
-        "JetBrains",
-        "Security",
-        "Fixing Bug",
-        "Vulerability",
-        "Help",
-        "Learning",
-        "Explain",
-        "Test",
-        "VSCode",
-        "Refactoring",
-        "Spring Boot"
-      ],
-      "defaultAudioLanguage": "en"
-    }
-  },
-  {
-    "id": "hzLCvQHmucw",
-    "snippet": {
-      "title": "Explaining Vulnerable Code & Refactoring",
-      "description": "This demonstration shows how to use GitHub Copilot Chat in IntelliJ to check if some code is safe, and also use the chat to refactor the code:\n- create new API to access database\n- call these new API from a Spring controller",
-      "thumbnails": {
-        "default": {
-          "url": "https://i.ytimg.com/vi/hzLCvQHmucw/default.jpg",
-          "width": 120,
-          "height": 90
-        }
-      },
-      "tags": [
-        "Copilot In the IDE",
-        "Copilot Chat",
-        "Java",
-        "Database",
-        "REST",
-        "IntelliJ",
-        "JetBrains",
-        "Security",
-        "Fixing Bug",
-        "Vulerability",
-        "Help",
-        "Learning",
-        "Explain",
-        "Test",
-        "Refactoring",
-        "Spring Boot"
-      ],
-      "defaultAudioLanguage": "en"
-    }
-  },
-  {
-    "id": "2lYppIXb-pU",
-    "snippet": {
-      "title": "Creating a new GitHub Issue with Copilot Chat",
-      "description": "In this demonstration, I use Copilot Chat in VS Code to create a new GitHub Issue and help me to write the specifications.",
-      "thumbnails": {
-        "default": {
-          "url": "https://i.ytimg.com/vi/2lYppIXb-pU/default.jpg",
-          "width": 120,
-          "height": 90
-        }
-      },
-      "tags": [
-        "Copilot In the IDE",
-        "Copilot Chat",
-        "REST",
-        "Help",
-        "VS Code",
-        "Documentation",
-        "Specifications",
-        "Doc",
-        "Issue"
-      ],
-      "defaultAudioLanguage": "en"
-    }
-  },
-  {
-    "id": "ZhFtu1q5E08",
-    "snippet": {
-      "title": "Internationalization (i18n) with GitHub Copilot",
-      "description": "In this video, I show how to use GitHub Copilot Chat to help me to add a new language to a React/NextJS application.",
-      "thumbnails": {
-        "default": {
-          "url": "https://i.ytimg.com/vi/ZhFtu1q5E08/default.jpg",
-          "width": 120,
-          "height": 90
-        }
-      },
-      "tags": [
-        "Copilot In the IDE",
-        "Copilot Chat",
-        "VSCode",
-        "i18n",
-        "Front-End",
-        "React",
-        "Next"
-      ],
-      "defaultAudioLanguage": "en"
-    }
-  },
-  {
-    "id": "ib6dswtx-Yw",
-    "snippet": {
-      "title": "Using GitHub Copilot Edits to add new translation to my NextJS Application.",
-      "description": "Adding new entry in my i18n files using Copilot Edits. This new feature of VSCode Copilot Chat allows me to modify multiple files easily.",
-      "thumbnails": {
-        "default": {
-          "url": "https://i.ytimg.com/vi/ib6dswtx-Yw/default.jpg",
-          "width": 120,
-          "height": 90
-        }
-      },
-      "tags": [
-        "Copilot In the IDE",
-        "Copilot Chat",
-        "VSCode",
-        "i18n",
-        "Front-End",
-        "React",
-        "Next",
-        "Copilot Edits"
-      ],
-      "defaultAudioLanguage": "en"
     }
   }
 ]
