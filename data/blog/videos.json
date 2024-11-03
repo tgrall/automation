@@ -3,7 +3,7 @@
     "id": "Buwz_9O8p1Y",
     "snippet": {
       "title": "Refactoring code to create a new React component using Copilot Edits",
-      "description": "",
+      "description": "Extracting some code to create a new React/NextJS component from a TSX file using GitHub Copilot Edits.\n\nImproving the code by replacing a string by its i18n properties.",
       "thumbnails": {
         "default": {
           "url": "https://i.ytimg.com/vi/Buwz_9O8p1Y/default.jpg",
