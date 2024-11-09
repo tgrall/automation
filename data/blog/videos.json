@@ -1,28 +1,28 @@
 [
   {
-    "id": "Buwz_9O8p1Y",
+    "id": "3HiplLjScbA",
     "snippet": {
-      "title": "Refactoring code to create a new React component using Copilot Edits",
-      "description": "Extracting some code to create a new React/NextJS component from a TSX file using GitHub Copilot Edits.\n\nImproving the code by replacing a string by its i18n properties.",
+      "title": "Refactoring Next.JS Component with GitHub Copilot Edits",
+      "description": "In this video, we explore how to refactor a Next.js component using GitHub Copilot Edits.",
       "thumbnails": {
         "default": {
-          "url": "https://i.ytimg.com/vi/Buwz_9O8p1Y/default.jpg",
+          "url": "https://i.ytimg.com/vi/3HiplLjScbA/default.jpg",
           "width": 120,
           "height": 90
         }
       },
       "tags": [
-        "Copilot In the IDE",
-        "Copilot Chat",
+        "GitHub",
+        "Copilot",
+        "Chat",
         "VSCode",
-        "i18n",
-        "Front-End",
-        "React",
-        "Next",
-        "Copilot Edits",
+        "AI",
+        "GitHub Copilot Edits",
+        "NextJS",
+        "ReactJS",
         "Refactoring"
       ],
-      "defaultAudioLanguage": "en"
+      "defaultAudioLanguage": "fr"
     }
   },
   {
