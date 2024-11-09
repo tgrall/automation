@@ -1,5 +1,36 @@
 [
   {
+    "id": "bFYU7mqro2U",
+    "snippet": {
+      "title": "Using GitHub Copilot to Refactor a SpringBoot Controller",
+      "description": "See how GitHub Copilot Edits can help you refactoring code of your Java application:\n- exctracting DB calls into a new service class\n- fixing and documenting CVEs\n- documenting code\n\nI use two IDEs here: JetBrains IntelliJ for the core development and using VSCode when I need to do complex task with GitHub Copilot",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/bFYU7mqro2U/default.jpg",
+          "width": 120,
+          "height": 90
+        }
+      },
+      "tags": [
+        "Copilot In the IDE",
+        "Copilot Chat",
+        "Java",
+        "Database",
+        "IntelliJ",
+        "JetBrains",
+        "Security",
+        "Fixing Bug",
+        "Learning",
+        "Explain",
+        "VSCode",
+        "Refactoring",
+        "Spring Boot",
+        "Copilot Edits"
+      ],
+      "defaultAudioLanguage": "en"
+    }
+  },
+  {
     "id": "3HiplLjScbA",
     "snippet": {
       "title": "Refactoring Next.JS Component with GitHub Copilot Edits",
@@ -22,7 +53,7 @@
         "ReactJS",
         "Refactoring"
       ],
-      "defaultAudioLanguage": "fr"
+      "defaultAudioLanguage": "en"
     }
   },
   {
