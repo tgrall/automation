@@ -1,5 +1,31 @@
 [
   {
+    "id": "j4RF3d_tjhQ",
+    "snippet": {
+      "title": "Effortlessly Adding Strings in 4 Languages to Next.js i18n with GitHub Copilot Edits",
+      "description": "In this video, I demonstrate how to use GitHub Copilot Edits to streamline updates to Next.js internationalization (i18n) files. Watch as I effortlessly add new entries for \"login\" and \"logout\" in four languages: English, Spanish, German, and French. See how AI makes multilingual app development faster and easier!",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/j4RF3d_tjhQ/default.jpg",
+          "width": 120,
+          "height": 90
+        }
+      },
+      "tags": [
+        "Copilot In the IDE",
+        "Copilot Chat",
+        "JetBrains",
+        "VSCode",
+        "Copilot Edits",
+        "i18n",
+        "Internalization",
+        "NextJS",
+        "JSON"
+      ],
+      "defaultAudioLanguage": "en"
+    }
+  },
+  {
     "id": "bFYU7mqro2U",
     "snippet": {
       "title": "Using GitHub Copilot to Refactor a SpringBoot Controller",
