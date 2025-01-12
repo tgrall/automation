@@ -1,5 +1,29 @@
 [
   {
+    "id": "EqyJ7h-Kzho",
+    "snippet": {
+      "title": "🤨 Cannot remember a terminal command ? 😏 Just ask #Copilot in #VSCode terminal !",
+      "description": "When I cannot remember which command to run, I simply use GitHub Copilot in the terminal!\n\nFor example here, when I could not remember how to run my #Playwright tests",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/EqyJ7h-Kzho/default.jpg",
+          "width": 120,
+          "height": 90
+        }
+      },
+      "tags": [
+        "copilot",
+        "dev",
+        "coding",
+        "vscode",
+        "testing",
+        "terminal",
+        "shorts"
+      ],
+      "defaultAudioLanguage": "en"
+    }
+  },
+  {
     "id": "j4RF3d_tjhQ",
     "snippet": {
       "title": "Effortlessly Adding Strings in 4 Languages to Next.js i18n with GitHub Copilot Edits",
