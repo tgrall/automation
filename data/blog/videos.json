@@ -1,5 +1,27 @@
 [
   {
+    "id": "lt2kBH1nLAE",
+    "snippet": {
+      "title": "Copilot Next Edit Suggestions in action",
+      "description": "See how Copilot Next Edit Suggestions is helping me to add a new parameter to to a TypeScript function.\n\nThis feature is available as preview in VSCode 1.97 see : https://code.visualstudio.com/updates/v1_97#_copilot-next-edit-suggestions-preview",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/lt2kBH1nLAE/default.jpg",
+          "width": 120,
+          "height": 90
+        }
+      },
+      "tags": [
+        "Copilot In the IDE",
+        "Copilot Chat",
+        "VSCode",
+        "Refactoring",
+        "TypeScript"
+      ],
+      "defaultAudioLanguage": "en"
+    }
+  },
+  {
     "id": "EqyJ7h-Kzho",
     "snippet": {
       "title": "🤨 Cannot remember a terminal command ? 😏 Just ask #Copilot in #VSCode terminal !",
