@@ -1,5 +1,31 @@
 [
   {
+    "id": "9NcmbTMjp_0",
+    "snippet": {
+      "title": "Discover GitHub Copilot Agent Mode in Action! 🚀",
+      "description": "In this video, watch as I demonstrate the power of GitHub Copilot's new Agent Mode while tackling a common developer challenge: setting up Next.js internationalization. \n\nWith this revolutionary mode, all I need to do is ask, validate, and let Copilot handle the rest—automating and explaining every step of the process!\n\nSee how effortlessly it works and imagine how it could simplify your workflow. Curious? \n\nTry it out yourself in VSCode Insider and share your experience in the comments! \n\nLet’s explore the future of AI-assisted development together. 🌟\n\n\n00:00 Introduction\n00:10 Testing the application\n00:38 Explaining the current code based on Next-Intl\n01:04 Copilot Edits & Agent Modes\n01:22 Copilot Agent mode release notes\n01:34 Asking Copilot to add add Italian\n02:20 Reviewing and validating the suggestions\n02:24 Testing Italian \n02:40 Adding Dutch\n03:10 Testing Dutch\n03:26 End",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/9NcmbTMjp_0/default.jpg",
+          "width": 120,
+          "height": 90
+        }
+      },
+      "tags": [
+        "Copilot In the IDE",
+        "Copilot Chat",
+        "VSCode",
+        "i18n",
+        "Front-End",
+        "React",
+        "Next",
+        "Copilot Edits",
+        "Agent"
+      ],
+      "defaultAudioLanguage": "en"
+    }
+  },
+  {
     "id": "lt2kBH1nLAE",
     "snippet": {
       "title": "Copilot Next Edit Suggestions in action",
