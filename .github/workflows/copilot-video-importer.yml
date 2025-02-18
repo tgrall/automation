@@ -38,7 +38,10 @@ jobs:
 
           # Remove unwanted fields
           video_data=$(echo $video_data | jq 'del(.kind, .etag, .snippet.channelId, .snippet.channelTitle, .snippet.liveBroadcastContent, .snippet.localized, .snippet.categoryId, .snippet.publishedAt, .snippet.thumbnails.medium, .snippet.thumbnails.high, .snippet.thumbnails.standard, .snippet.thumbnails.maxres)')
-
+          
+          # Trim description after "00:00"
+          video_data=$(echo $video_data | jq '.snippet.description |= (split("00:00")[0])')
+          
           videos+=("$video_data")
         done
 
