@@ -1,5 +1,29 @@
 [
   {
+    "id": "q6i9uxrWXoQ",
+    "snippet": {
+      "title": "Using GitHub Copilot to Document a Project",
+      "description": "In this demonstration I am using GitHub Copilot Edits to create document from the Codebase.\n\nThe documentation contains information about Database and Schema (ERD), UML diagram, and Web navigation, and all these generated with a simple prompt.",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/q6i9uxrWXoQ/default.jpg",
+          "width": 120,
+          "height": 90
+        }
+      },
+      "tags": [
+        "Copilot In the IDE",
+        "Copilot Chat",
+        "VSCode",
+        "Copilot Edits",
+        "Springboot",
+        "Java",
+        "Documentation"
+      ],
+      "defaultAudioLanguage": "en-US"
+    }
+  },
+  {
     "id": "9NcmbTMjp_0",
     "snippet": {
       "title": "Discover GitHub Copilot Agent Mode in Action! 🚀",
