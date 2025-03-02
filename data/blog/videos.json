@@ -2,7 +2,7 @@
   {
     "id": "q6i9uxrWXoQ",
     "snippet": {
-      "title": "Using GitHub Copilot to Document a Project",
+      "title": "Using GitHub Copilot to document SpringBoot Petclinic Application",
       "description": "In this demonstration I am using GitHub Copilot Edits to create document from the Codebase.\n\nThe documentation contains information about Database and Schema (ERD), UML diagram, and Web navigation, and all these generated with a simple prompt.",
       "thumbnails": {
         "default": {
