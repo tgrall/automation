@@ -1,5 +1,30 @@
 [
   {
+    "id": "WySJOAlVpQ0",
+    "snippet": {
+      "title": "🚀 GitHub Copilot Agent Mode with MCP",
+      "description": "🤖 GitHub Copilot now supports MCP (Model Context Protocol), allowing you to connect new services inside VS Code Insiders—and soon, in VS Code GA!\n\n🎯 In this video, I explain what MCP is and how to install and configure an MCP server in VS Code.\n\n⚡ Finally, watch as I use Copilot with a GitHub MCP Server to create new issues, documentation, and releases—automatically!\n\n",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/WySJOAlVpQ0/default.jpg",
+          "width": 120,
+          "height": 90
+        }
+      },
+      "tags": [
+        "Copilot In the IDE",
+        "Copilot Chat",
+        "VSCode",
+        "Next",
+        "Copilot Edits",
+        "Agent",
+        "Insider",
+        "MCP"
+      ],
+      "defaultAudioLanguage": "en"
+    }
+  },
+  {
     "id": "q6i9uxrWXoQ",
     "snippet": {
       "title": "Using GitHub Copilot to document SpringBoot Petclinic Application",
