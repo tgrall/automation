@@ -1,5 +1,48 @@
 [
   {
+    "id": "EviYJbIz0_0",
+    "snippet": {
+      "title": "How I Use GitHub Copilot Coding Agent to Add a New Language to My App",
+      "description": "What if you could assign a coding task to an AI and let it handle the rest? I put GitHub Copilot's coding agent to the test to add Dutch to my Next.js app. The results were incredible.\n\nI simply created a GitHub issue and assigned it to Copilot. It created a pull request, wrote the code, and even gave me a detailed summary of its work. See the entire process, including the code review and verification, and learn how this could change the way you work forever!\n\n\n",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/EviYJbIz0_0/default.jpg",
+          "width": 120,
+          "height": 90
+        }
+      },
+      "tags": [
+        "Copilot In the IDE",
+        "Copilot Chat",
+        "VSCode",
+        "Next",
+        "Agent",
+        "MCP",
+        "GitHub",
+        "i18n",
+        "Coding Agent"
+      ],
+      "defaultLanguage": "en",
+      "defaultAudioLanguage": "en"
+    }
+  },
+  {
+    "id": "fC8M_L1z7Cg",
+    "snippet": {
+      "title": "Help Copilot Help You—with One Click",
+      "description": "With just one click in VS Code, create or update your Copilot Instructions file. \nThese instructions let you guide Copilot—so it can help you even better!\n\nSome links:\n\n- https://docs.github.com/en/copilot/how-tos/configure-custom-instructions/add-repository-instructions\n- https://github.com/github/awesome-copilot?tab=readme-ov-file#-awesome-github-copilot-customizations",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/fC8M_L1z7Cg/default.jpg",
+          "width": 120,
+          "height": 90
+        }
+      },
+      "defaultLanguage": "en",
+      "defaultAudioLanguage": "en"
+    }
+  },
+  {
     "id": "WySJOAlVpQ0",
     "snippet": {
       "title": "🚀 GitHub Copilot Agent Mode with MCP",
@@ -21,6 +64,7 @@
         "Insider",
         "MCP"
       ],
+      "defaultLanguage": "en",
       "defaultAudioLanguage": "en"
     }
   },
@@ -45,6 +89,7 @@
         "Java",
         "Documentation"
       ],
+      "defaultLanguage": "en",
       "defaultAudioLanguage": "en-US"
     }
   },
@@ -71,6 +116,7 @@
         "Copilot Edits",
         "Agent"
       ],
+      "defaultLanguage": "en",
       "defaultAudioLanguage": "en"
     }
   },
@@ -93,6 +139,7 @@
         "Refactoring",
         "TypeScript"
       ],
+      "defaultLanguage": "en",
       "defaultAudioLanguage": "en"
     }
   },
@@ -117,6 +164,7 @@
         "terminal",
         "shorts"
       ],
+      "defaultLanguage": "en",
       "defaultAudioLanguage": "en"
     }
   },
@@ -143,6 +191,7 @@
         "JSON",
         "Internationalization"
       ],
+      "defaultLanguage": "en",
       "defaultAudioLanguage": "en"
     }
   },
@@ -174,6 +223,7 @@
         "Spring Boot",
         "Copilot Edits"
       ],
+      "defaultLanguage": "en",
       "defaultAudioLanguage": "en"
     }
   },
@@ -200,6 +250,7 @@
         "ReactJS",
         "Refactoring"
       ],
+      "defaultLanguage": "en",
       "defaultAudioLanguage": "en"
     }
   },
@@ -225,6 +276,7 @@
         "Next",
         "Copilot Edits"
       ],
+      "defaultLanguage": "en",
       "defaultAudioLanguage": "en"
     }
   },
@@ -249,6 +301,7 @@
         "React",
         "Next"
       ],
+      "defaultLanguage": "en",
       "defaultAudioLanguage": "en"
     }
   },
@@ -275,6 +328,7 @@
         "Doc",
         "Issue"
       ],
+      "defaultLanguage": "en",
       "defaultAudioLanguage": "en"
     }
   },
@@ -308,6 +362,7 @@
         "Refactoring",
         "Spring Boot"
       ],
+      "defaultLanguage": "en",
       "defaultAudioLanguage": "en"
     }
   },
@@ -342,6 +397,7 @@
         "Refactoring",
         "Spring Boot"
       ],
+      "defaultLanguage": "en",
       "defaultAudioLanguage": "en"
     }
   },
@@ -399,7 +455,8 @@
         "TypeScript",
         "Specifications",
         "Text To Code"
-      ]
+      ],
+      "defaultLanguage": "en"
     }
   },
   {
@@ -420,7 +477,8 @@
         "Python",
         "Copilot In the IDE",
         "Text To Code"
-      ]
+      ],
+      "defaultLanguage": "en"
     }
   },
   {
@@ -443,7 +501,8 @@
         "REST",
         "Annotations",
         "Spring Boot"
-      ]
+      ],
+      "defaultLanguage": "en"
     }
   },
   {
@@ -469,7 +528,8 @@
         "GitHub Actions",
         "CI/CD",
         "French"
-      ]
+      ],
+      "defaultLanguage": "en"
     }
   },
   {
@@ -496,7 +556,8 @@
         "AWS",
         "Ops",
         "Copilot Chat"
-      ]
+      ],
+      "defaultLanguage": "en"
     }
   },
   {
@@ -522,7 +583,8 @@
         "Database",
         "REST",
         "Spring Boot"
-      ]
+      ],
+      "defaultLanguage": "en"
     }
   },
   {
@@ -553,7 +615,8 @@
         "Explain",
         "Test",
         "Spring Boot"
-      ]
+      ],
+      "defaultLanguage": "en"
     }
   },
   {
@@ -581,7 +644,8 @@
         "Next",
         "React",
         "Front End"
-      ]
+      ],
+      "defaultLanguage": "en"
     }
   },
   {
@@ -611,7 +675,8 @@
         "JavaDoc",
         "VSCode",
         "Quality"
-      ]
+      ],
+      "defaultLanguage": "en"
     }
   },
   {
@@ -644,7 +709,8 @@
         "VSCode",
         "Refactoring",
         "Spring Boot"
-      ]
+      ],
+      "defaultLanguage": "en"
     }
   }
 ]
