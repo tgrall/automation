@@ -1,5 +1,68 @@
 [
   {
+    "id": "p07-hHO0Wjk",
+    "snippet": {
+      "title": "🇫🇷 Modernisation d'une Application Progress vers Next.js avec GitHub Copilot",
+      "description": "Cette vidéo montre comment transformer la documentation existante (architecture, specs fonctionnelles/non-fonctionnelles) d'une application Legacy (ici, en Progress) en un projet moderne Next.js.\n\nAu programme :\n\n - Utiliser la documentation comme source: PRD et Plan d'Implémentation\n - Générer et initialiser un projet Next.js avec les meilleures pratiques.\n - Déléguer l'implémentation de pages et d'APIs moquées à GitHub Copilot pour un MVP ultra-rapide.\n - Démonstration du workflow avancé avec GitHub Coding Agent: création d'Issues, développement autonome de nouvelles fonctionnalités (ajout de graphiques).\n\n---\n\n",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/p07-hHO0Wjk/default.jpg",
+          "width": 120,
+          "height": 90
+        }
+      },
+      "tags": [
+        "Copilot In the IDE",
+        "Copilot Chat",
+        "VSCode",
+        "Next",
+        "Agent",
+        "MCP",
+        "GitHub",
+        "i18n",
+        "Coding Agent",
+        "App Modernization",
+        "French",
+        "Progress",
+        "OpenEdge"
+      ],
+      "defaultLanguage": "fr",
+      "defaultAudioLanguage": "fr"
+    }
+  },
+  {
+    "id": "DYZNNsB-krc",
+    "snippet": {
+      "title": "🇫🇷 Rétro-documentation de code Legacy avec Copilot : Comprendre et Moderniser vos Applications",
+      "description": "Découvrez comment utiliser GitHub Copilot pour la rétro-documentation de votre code Legacy (ici, Progress Software/Open Edge) en vue de sa maintenance ou de sa modernisation.\n\nLa vidéo présente une méthode structurée pour exploiter Copilot, transformant votre code existant en documentation détaillée (architecture, API, fonctionnalités, etc.).\n\nLa démonstration met en lumière la capacité de l'IA à analyser la base de code, générer des diagrammes, et même établir des liens entre les exigences fonctionnelles et les fichiers sources correspondants. Un processus essentiel pour comprendre, maintenir et moderniser efficacement toute application existante.\n\n---\n\n",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/DYZNNsB-krc/default.jpg",
+          "width": 120,
+          "height": 90
+        }
+      },
+      "tags": [
+        "Copilot In the IDE",
+        "Copilot Chat",
+        "VSCode",
+        "Next",
+        "Agent",
+        "MCP",
+        "GitHub",
+        "i18n",
+        "Coding Agent",
+        "App Modernization",
+        "French",
+        "Progress",
+        "OpenEdge",
+        "Documentation"
+      ],
+      "defaultLanguage": "fr",
+      "defaultAudioLanguage": "fr"
+    }
+  },
+  {
     "id": "EviYJbIz0_0",
     "snippet": {
       "title": "How I Use GitHub Copilot Coding Agent to Add a New Language to My App",
