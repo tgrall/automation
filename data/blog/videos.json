@@ -1,5 +1,30 @@
 [
   {
+    "id": "Gq5xq5sa7h0",
+    "snippet": {
+      "title": "Edit Your UI in Seconds with GitHub Copilot Agent Mode + VS Code Browser!",
+      "description": "In this video, I show how you can quickly modify your UI using the integrated browser inside VS Code together with GitHub Copilot.\n\nNo context switching. No searching for files.\nJust click an element → describe your change → Copilot updates the code automatically.\n\nYou’ll see how to:\n\n - Start your app and open it inside VS Code\n - Select UI elements directly from the browser view\n - Ask Copilot to update layout, colors, and element order\n\nWatch Copilot find the correct source file and make the change for you\n\nHappy coding! 🚀",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/Gq5xq5sa7h0/default.jpg",
+          "width": 120,
+          "height": 90
+        }
+      },
+      "tags": [
+        "Copilot In the IDE",
+        "Copilot Chat",
+        "VSCode",
+        "Next",
+        "Agent",
+        "GitHub",
+        "Coding Agent"
+      ],
+      "defaultLanguage": "en",
+      "defaultAudioLanguage": "en"
+    }
+  },
+  {
     "id": "p07-hHO0Wjk",
     "snippet": {
       "title": "🇫🇷 Modernisation d'une Application Progress vers Next.js avec GitHub Copilot",
