@@ -1,5 +1,30 @@
 [
   {
+    "id": "j3YjYGjW09c",
+    "snippet": {
+      "title": "Using Copilot & Playwright MCP Server to rewrite my site",
+      "description": null,
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/j3YjYGjW09c/default.jpg",
+          "width": 120,
+          "height": 90
+        }
+      },
+      "tags": [
+        "copilot",
+        "mcp",
+        "github",
+        "coding",
+        "playwright",
+        "genai",
+        "ai"
+      ],
+      "defaultLanguage": "en",
+      "defaultAudioLanguage": "en"
+    }
+  },
+  {
     "id": "Gq5xq5sa7h0",
     "snippet": {
       "title": "Edit Your UI in Seconds with GitHub Copilot Agent Mode + VS Code Browser!",
