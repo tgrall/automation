@@ -1,24 +1,26 @@
 [
   {
-    "id": "j3YjYGjW09c",
+    "id": "ytR7x697lhg",
     "snippet": {
       "title": "Using Copilot & Playwright MCP Server to rewrite my site",
-      "description": null,
+      "description": "Watch how I use GitHub Copilot with Playwright MCP Server to rewite the home page of my site into a new application!",
       "thumbnails": {
         "default": {
-          "url": "https://i.ytimg.com/vi/j3YjYGjW09c/default.jpg",
+          "url": "https://i.ytimg.com/vi/ytR7x697lhg/default.jpg",
           "width": 120,
           "height": 90
         }
       },
       "tags": [
         "copilot",
+        "vscode",
         "mcp",
-        "github",
-        "coding",
         "playwright",
+        "code",
+        "ai",
         "genai",
-        "ai"
+        "coding",
+        "development"
       ],
       "defaultLanguage": "en",
       "defaultAudioLanguage": "en"
