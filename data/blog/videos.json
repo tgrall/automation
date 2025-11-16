@@ -1,5 +1,34 @@
 [
   {
+    "id": "7pK6JaQU1i8",
+    "snippet": {
+      "title": "Adding Context and Reusable Prompts to a SpringBoot Project",
+      "description": "This video demonstrates an efficient workflow for integrating GitHub Copilot into an existing project, using the SpringBoot PetClinic application as an example. The key focus is on using Copilot's features—Chat Instructions, Plan Mode, and Reusable Prompts—to accelerate development and maintain code consistency.\n\n",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/7pK6JaQU1i8/default.jpg",
+          "width": 120,
+          "height": 90
+        }
+      },
+      "tags": [
+        "Copilot In the IDE",
+        "Copilot Chat",
+        "VSCode",
+        "GitHub",
+        "Springboot",
+        "Petclinic",
+        "Agentic",
+        "Agent Mode",
+        "Context Engineering",
+        "Instructions",
+        "Prompts"
+      ],
+      "defaultLanguage": "en",
+      "defaultAudioLanguage": "en"
+    }
+  },
+  {
     "id": "ytR7x697lhg",
     "snippet": {
       "title": "Using Copilot & Playwright MCP Server to rewrite my site",
