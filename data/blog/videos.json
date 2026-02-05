@@ -1,5 +1,29 @@
 [
   {
+    "id": "xQW5lQxHclk",
+    "snippet": {
+      "title": "🇫🇷 Comment j'ai réécrit une application Java en .NET en quelques minutes avec Copilot CLI",
+      "description": "La migration automatisée de Spring PetClinic:\n\n- Stratégie : Utilisation du mode /plan avec Claude Opus pour l'analyse.\n- Exécution : Lancer plusieurs agents IA en parallèle pour coder le backend, le front (Razor) et la base de données.\n- Validation : Tests automatisés avec Playwright pour garantir la parité des fonctionnalités.\n\n🛠️ Outils utilisés : GitHub Copilot CLI, .NET 10, Entity Framework, SQLite, Razor, Playwright.\n\n-------\n\n📑 Chapitres\n",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/xQW5lQxHclk/default.jpg",
+          "width": 120,
+          "height": 90
+        }
+      },
+      "tags": [
+        "copilot",
+        "cli",
+        "java",
+        "dotnet",
+        "migration",
+        "coding"
+      ],
+      "defaultLanguage": "fr",
+      "defaultAudioLanguage": "fr"
+    }
+  },
+  {
     "id": "7pK6JaQU1i8",
     "snippet": {
       "title": "Adding Context and Reusable Prompts to a SpringBoot Project",
