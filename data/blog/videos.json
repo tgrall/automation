@@ -1,5 +1,28 @@
 [
   {
+    "id": "8NPBfUzDqbQ",
+    "snippet": {
+      "title": "How to Build a Release Chart in Seconds with Copilot CLI",
+      "description": "In this video, I try a fun prompt with Copilot CLI.\n\nStarting from a simple idea — asking for a colored ASCII bar chart, release history by month, total releases, and extra summary info for the github/copilot-cli repo — Copilot helps turn a rough thought into something concrete, useful, and honestly pretty cool.\n\nThat’s the bigger point of this video:\n - you should start any idea with the help of an AI tool, in my case it is always GitHub Copilot (from the CLI, VSCode or the Web)\n\nIf you’ve never tried working this way, give it a shot:\nstart with the idea, however rough it is, and brainstorm with AI from there.\n\nThe prompt that I used in this demo:\n\n- Can you create an ascit barchat with color, in this chat, with the number of releases of the github.con/github/copilot-cli repo by month from day to today, and the total number of release and some additionnal sumary infa\n\n#Copilot #GitHubCopilot #CopilotCLI #AI #DeveloperTools #Terminal #Productivity #GitHub",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/8NPBfUzDqbQ/default.jpg",
+          "width": 120,
+          "height": 90
+        }
+      },
+      "tags": [
+        "github",
+        "copilot",
+        "cli",
+        "prompt",
+        "ideas"
+      ],
+      "defaultLanguage": "en",
+      "defaultAudioLanguage": "en"
+    }
+  },
+  {
     "id": "xQW5lQxHclk",
     "snippet": {
       "title": "🇫🇷 Comment j'ai réécrit une application Java en .NET en quelques minutes avec Copilot CLI",
