@@ -1,5 +1,33 @@
 [
   {
+    "id": "sN1WcynUZCs",
+    "snippet": {
+      "title": "🇫🇷 GitHub Copilot CLI : Comment j'utilise les Skills pour créer des présentations PowerPoint",
+      "description": "Dans cette vidéo, je vous montre comment déléguer l'écriture de documents (PPT, et PDF) à GitHub Copilot, à partir de votre code source.\n\nVous avez un projet , par exemple Spring PetClinic et vous devez créer rapidement un support de présentation pour des étudiants ou des collègues ? Découvrez comment le faire avec Copilot CLI`\n\nAu programme de ce tutoriel :\n - Ajout de Skills à votre CLI depuis la market place Anthropic\n - Utilisation de Playwright : Automatisation des captures d'écran de votre application en cours d'exécution.\n - Demander à l'IA de générer simultanément une présentation PowerPoint structurée et un guide d'installation au format PDF.\n\nL'objectif : Adopter le réflexe \"IA First\" pour toutes vos tâches périphériques au code (recherche, doc, analyse) et gagner un temps précieux au quotidien.\n\nRessources mentionnées :\n - https://awesome-copilot.github.com/\n- https://awesome-copilot.github.com/learning-hub/\n - Skills marketplace : skills.sh\n\nN'hésitez pas à partager vos propres expériences et vos astuces dans les commentaires !",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/sN1WcynUZCs/default.jpg",
+          "width": 120,
+          "height": 90
+        }
+      },
+      "tags": [
+        "GitHub Copilot",
+        "IA",
+        "Java",
+        "SpringBoot",
+        "Productivité",
+        "MCP",
+        "Skills",
+        "Agent",
+        "CLI",
+        "Copilot"
+      ],
+      "defaultLanguage": "fr",
+      "defaultAudioLanguage": "fr"
+    }
+  },
+  {
     "id": "8NPBfUzDqbQ",
     "snippet": {
       "title": "How to Build a Release Chart in Seconds with Copilot CLI",
