@@ -1,5 +1,31 @@
 [
   {
+    "id": "ePO_6QpDjyM",
+    "snippet": {
+      "title": "🇫🇷 Je rajoute des commandes à Copilot CLI avec les Extensions",
+      "description": "Dans cette démonstration, je vous montre comment j’utilise GitHub Copilot CLIpour créer mes propres extensions et ajouter de nouvelles commandes personnalisées à la CLI.\n\nEt tout particulièrement, étendre Copilot CLI pour rechercher et réutiliser facilement mes anciens prompts.\n\nWorkflow utilisé\nPour les tâches longues ou complexes, j’utilise systématiquement :\n- le mode /experimental pour accèder aux extensions \n- le mode Plan pour concevoir la fonctionnalité\n- le mode Autopilot pour l’implémentation\n- la commande /keepalive (busy / on) pour éviter la mise en veille pendant l’exécution\n\nConclusion\nCette vidéo montre qu’il est déjà possible aujourd’hui :\n\n - de découvrir des fonctionnalités en cours de développement dans Copilot CLI\n - de créer rapidement ses propres extensions\n- d’ajouter des commandes slash personnalisées\n -et même de créer des interfaces visuelles à partir de Copilot\n\n\nEt vous ?\nQuelles extensions aimeriez-vous créer pour Copilot CLI ?\nN’hésitez pas à partager vos idées ou vos expériences en commentaire 👇\n\n----\n\nChapitres\n\n",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/ePO_6QpDjyM/default.jpg",
+          "width": 120,
+          "height": 90
+        }
+      },
+      "tags": [
+        "copilot",
+        "github cli",
+        "cli",
+        "extension",
+        "customization",
+        "development",
+        "github",
+        "vscode"
+      ],
+      "defaultLanguage": "fr-FR",
+      "defaultAudioLanguage": "fr"
+    }
+  },
+  {
     "id": "sN1WcynUZCs",
     "snippet": {
       "title": "🇫🇷 GitHub Copilot CLI : Comment j'utilise les Skills pour créer des présentations PowerPoint",
