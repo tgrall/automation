@@ -1,5 +1,55 @@
 [
   {
+    "id": "p61t2JkEBFY",
+    "snippet": {
+      "title": "🇬🇧 Customize GitHub Copilot CLI \"Status Line\" : Boost your terminal sessions!",
+      "description": "In this demonstration, discover how to take control of the GitHub Copilot CLI \"Status Line.\"\n\nBy enabling experimental mode, you will learn how to create a custom script (Bash, Python, etc.) to inject your own metrics into the status bar.\n\nWhether it's monitoring your token consumption in real-time, verifying the AI model being used (GPT-5.2, Claude Sonnet), or tracking the size of your conversation context, this trick allows you to adapt the tool to your developer workflow.\n\nBlog post:\n - https://tgrall.github.io/blog/2026/05/02/copilot-cli-customize-statusline\n\n## Chapters\n\n",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/p61t2JkEBFY/default.jpg",
+          "width": 120,
+          "height": 90
+        }
+      },
+      "tags": [
+        "copilot",
+        "github cli",
+        "cli",
+        "extension",
+        "customization",
+        "development",
+        "github"
+      ],
+      "defaultLanguage": "en",
+      "defaultAudioLanguage": "en"
+    }
+  },
+  {
+    "id": "uZjPT69TklY",
+    "snippet": {
+      "title": "🇫🇷 Personnaliser la \"Status Line\" de GitHub Copilot CLI : Boostez votre terminal !",
+      "description": "Dans ce tutoriel, découvrez comment prendre le contrôle de la \"Status Line\" de GitHub Copilot CLI.\n\nEn activant le mode expérimental, vous apprendrez à créer un script personnalisé (Bash, Python, etc.) pour injecter vos propres métriques dans la barre de statut.\n\n Que ce soit pour surveiller la consommation de vos tokens en temps réel, vérifier le modèle d'IA utilisé (GPT-5.2, Claude Sonnet) ou suivre la taille de votre contexte de discussion, cette astuce vous permet d'adapter l'outil à votre flux de travail de développeur.\n\nBlog post:\n- https://tgrall.github.io/blog/2026/05/02/copilot-cli-customize-statusline\n\n\n## Chapitres\n\n",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/uZjPT69TklY/default.jpg",
+          "width": 120,
+          "height": 90
+        }
+      },
+      "tags": [
+        "copilot",
+        "github cli",
+        "cli",
+        "extension",
+        "customization",
+        "development",
+        "github"
+      ],
+      "defaultLanguage": "fr",
+      "defaultAudioLanguage": "fr"
+    }
+  },
+  {
     "id": "ePO_6QpDjyM",
     "snippet": {
       "title": "🇫🇷 Je rajoute des commandes à Copilot CLI avec les Extensions",
